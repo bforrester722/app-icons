@@ -1,0 +1,22 @@
+{
+  "name": "@spriteful/app-icons",
+  "version": "1.0.0",
+  "description": "commonly used app icons from the iron-icons icon set",
+  "main": "app-icons.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spriteful/app-icons.git"
+  },
+  "author": "Spriteful spritefuldev@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spriteful/app-icons/issues"
+  },
+  "homepage": "https://github.com/spriteful/app-icons#readme",
+  "dependencies": {
+    "@polymer/iron-iconset-svg": "^3.0.1"
+  }
+}
